@@ -1,0 +1,10 @@
+CHATBOT PLUGIN IN DEUTSCH
+
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "chatbot" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "chatbot" in plugins.conf ein
+
+FERTIG
